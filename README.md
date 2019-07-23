@@ -13,3 +13,5 @@
 </td>
 </tr>
 </table>
+
+<h3>The skeltonview is added just for entertainment 😜</h3>

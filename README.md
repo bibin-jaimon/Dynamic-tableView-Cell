@@ -11,6 +11,9 @@
 <td width="23.2%">
 <img src="images/img2.png"></img>
 </td>
+<td width="23.2%">
+<img src="images/img4.png"></img>
+</td>
 </tr>
 </table>
 
